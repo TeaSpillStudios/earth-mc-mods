@@ -6,7 +6,8 @@ https://www.curseforge.com/minecraft/mc-mods/simple-planes |
 https://www.curseforge.com/minecraft/mc-mods/telepass | 
 https://www.curseforge.com/minecraft/mc-mods/create | 
 https://www.curseforge.com/minecraft/mc-mods/flywheel/download | 
-https://www.curseforge.com/minecraft/mc-mods/small-ships 
+https://www.curseforge.com/minecraft/mc-mods/small-ships |
+https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod
 
 # Optional
 
