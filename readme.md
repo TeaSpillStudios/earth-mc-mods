@@ -8,7 +8,9 @@ https://www.curseforge.com/minecraft/mc-mods/create |
 https://www.curseforge.com/minecraft/mc-mods/flywheel/download | 
 https://www.curseforge.com/minecraft/mc-mods/small-ships |
 https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks |
-https://www.curseforge.com/minecraft/mc-mods/sophisticated-core
+https://www.curseforge.com/minecraft/mc-mods/sophisticated-core |
+https://www.curseforge.com/minecraft/mc-mods/waystones |
+https://www.curseforge.com/minecraft/mc-mods/balm
 
 # Optional
 
@@ -16,5 +18,4 @@ https://www.curseforge.com/minecraft/mc-mods/jei (Optional) |
 https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks (Optional) | 
 https://www.curseforge.com/minecraft/mc-mods/appleskin (Optional) | 
 https://www.curseforge.com/minecraft/mc-mods/journeymap (Optional) | 
-
 https://optifine.net (Optional)
