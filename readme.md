@@ -11,6 +11,7 @@ All mods need to be 1.18.2 versions.
 * https://www.curseforge.com/minecraft/mc-mods/sophisticated-core
 * https://www.curseforge.com/minecraft/mc-mods/waystones
 * https://www.curseforge.com/minecraft/mc-mods/balm
+* https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 
 # Optional
 
