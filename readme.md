@@ -19,5 +19,5 @@ All mods need to be 1.18.2 versions.
 * https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
 * https://www.curseforge.com/minecraft/mc-mods/appleskin
 * https://www.curseforge.com/minecraft/mc-mods/journeymap
-* https://www.curseforge.com/minecraft/mc-mods/wthit-forge
+* https://www.curseforge.com/minecraft/mc-mods/wthit-forge (Needs https://www.curseforge.com/minecraft/mc-mods/badpackets)
 * https://optifine.net
