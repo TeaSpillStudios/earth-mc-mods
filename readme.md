@@ -5,12 +5,12 @@ All mods need to be 1.18.2 versions.
 * https://www.curseforge.com/minecraft/mc-mods/simple-planes
 * https://www.curseforge.com/minecraft/mc-mods/telepass
 * https://www.curseforge.com/minecraft/mc-mods/create
-* https://www.curseforge.com/minecraft/mc-mods/flywheel/download
+* https://www.curseforge.com/minecraft/mc-mods/flywheel/download (Needed by Create)
 * https://www.curseforge.com/minecraft/mc-mods/small-ships
 * https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
-* https://www.curseforge.com/minecraft/mc-mods/sophisticated-core
+* https://www.curseforge.com/minecraft/mc-mods/sophisticated-core (Needed by Sophisticated backpacks)
 * https://www.curseforge.com/minecraft/mc-mods/waystones
-* https://www.curseforge.com/minecraft/mc-mods/balm
+* https://www.curseforge.com/minecraft/mc-mods/balm (Needed for Waystones)
 * https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 
 # Optional
